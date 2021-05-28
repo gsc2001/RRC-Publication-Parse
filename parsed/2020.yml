@@ -1,0 +1,99 @@
+- authors: Pushkal Katara, YVS Harish, Harit Pandya, Abhinav Gupta, AadilMehdi Sanchawala,
+    Gourav Kumar, K. Madhava Krishna1, Brojeshwar Bhowmick2
+  link:
+    display: Project page
+    url: https://robotics.iiit.ac.in/publications/2020/deep-mpc-for-visual-servoing/project-page.html
+  title: 'DeepMPCVS: Deep Model Predictive Control for Visual Servoing'
+  venue: CoRL 2020
+- authors: Sravan Mylavarapu*, Mahtab Sandhu*, Priyesh Vijayan, K. Madhava Krishna,
+    Balaraman Ravindran, Anoop Namboodiri
+  link:
+    display: Project page
+    url: https://robotics.iiit.ac.in/publications/2020/Understanding-Dynamic-Scenes-using-Graph-Convolution-Networks.html
+  title: Understanding Dynamic Scenes using Graph Convolution Networks
+  venue: IROS 2020
+- authors: Viswa N. Sankaranarayanan, Spandan Roy, and Simone Baldi
+  link:
+    display: Project page
+    url: https://robotics.iiit.ac.in/publications/2020/aerial-transportation-of-unknown-payloads.html
+  title: 'Aerial Transportation of Unknown Payloads: Adaptive Path Tracking for Quadrotors'
+  venue: IROS 2020
+- authors: Asheesh Singh, Aditya Kamireddypalli, Vineet Gandhi, and K. Madhava Krishna
+  link:
+    display: Project page
+    url: https://robotics.iiit.ac.in/publications/2020/lidar-guided-small-obstacle-segmentation.html
+  title: LiDAR Guided Small Obstacle Segmentation
+  venue: IROS 2020
+- authors: Bharath Gopalakrishnan, Arun Kumar Singh, K. Madhava Krishna, and Dinesh
+    Manocha
+  link:
+    display: Project page
+    url: https://robotics.iiit.ac.in/uploads/Main/Publications/Bharath_journal/
+  title: Solving Chance Constrained Optimization under Non-Parametric Uncertainty
+    Through Hilbert Space Embedding
+  venue: ITCST 20
+- authors: Nivedita Rufus, Unni Krishnan R. Nair, A.V.S Sai Bhargav Kumar, Vashist
+    Madiraju, and K. Madhava Krishna
+  link:
+    display: Project page
+    url: https://robotics.iiit.ac.in/publications/2020/simple-realtime-odometry-and-mapping-using-lidar.html
+  title: 'SROM: Simple Real-time Odometry and Mapping using LiDAR data for Autonomous
+    Vehicles'
+  venue: IV 2020
+- authors: Gokul B Nair, Swapnil Daga, Rahul Sajnani, Anirudha Ramesh, Junaid Ahmed
+    Ansari, J. Krishna Murthy, and K. Madhava Krishna
+  link:
+    display: Project page
+    url: https://robotics.iiit.ac.in/publications/2020/multi-object-monocular-slam-for-dynamic-environments.html
+  title: Multi-Object Monocular SLAM for Dynamic Environments
+  venue: IV 2020
+- authors: Arun Kumar Singh, Raghu Ram Theerthala, Mithun Babu, Unni Krishnan R Nair,
+    and K. Madhava Krishna
+  link:
+    display: Project page
+    url: https://robotics.iiit.ac.in/publications/2020/biconvex-approx-non-holonomic-trajectory-optimization.html
+  title: Bi-Convex Approximation of Non-Holonomic Trajectory Optimization
+  venue: ICRA 2020
+- authors: Kartik Suryavanshi, Rama Vadapalli, Ruchitha Vucha, Abhishek Sarkar and
+    K Madhava Krishna
+  link:
+    display: Project page
+    url: https://robotics.iiit.ac.in/publications/2020/omni-tractable-three-module-robot.html
+  title: Omnidirectional Tractable Three Module Robot
+  venue: ICRA 2020
+- authors: Y V S Harish, Harit Pandya, Ayush Gaud, Shreya Terupally, Sai Shankar,
+    and K. Madhava Krishna
+  link:
+    display: Project page
+    url: https://robotics.iiit.ac.in/publications/2020/dfvs-deep-flow-guided-scene-agnostic-image-based-visual-servoing.html
+  title: 'DFVS: Deep Flow Guided Scene Agnostic Image Based Visual Servoing'
+  venue: ICRA 2020
+- authors: Sai Shubodh Puligilla*, Satyajit Tourani*, Tushar Vaidya*, Udit Singh Parihar,
+    Ravi Kiran Sarvadevabhatla and K. Madhava Krishna
+  link:
+    display: Project page
+    url: https://robotics.iiit.ac.in/publications/2020/topological-mapping-for-manhattan-like-repetitive-environments.html
+  title: Topological Mapping for Manhattan-like Repetitive Environments
+  venue: ICRA 2020
+- authors: SriSai Naga Jyotish Poonganam*, Bharath Gopalakrishnan*, Venkata Seetharama
+    Sai Bhargav Kumar Avula, Arun Kumar Singh, K. Madhava Krishna and Dinesh Manocha
+  link:
+    display: Project page
+    url: https://robotics.iiit.ac.in/publications/2020/rkhs-collision-avoidance.html
+  title: Reactive Navigation under Uncertainty through Hilbert Space Embedding of
+    Probabilistic Velocity Obstacles
+  venue: RAL + ICRA 2020
+- authors: V. Shankaranarayanan and S. Roy
+  link:
+    display: Project page
+    url: https://robotics.iiit.ac.in/publications/2020/intro-switched-adaptive-control-for-quadcopters.html
+  title: Introducing Switched Adaptive Control for Quadrotors for Vertical Operations
+  venue: Optimal Control Applications and Methods, 2020
+- authors: Kaustubh Mani, Swapnil Daga, Shubhika Garg, N. Sai Shankar, J. Krishna
+    Murthy, and K. Madhava Krishna
+  link:
+    display: Project page
+    url: https://robotics.iiit.ac.in/publications/2020/monolayout-amodal-scene-layout-from-single-image.html
+  title: 'MonoLayout: Amodal scene layout from a single image'
+  venue: WACV 2020
+

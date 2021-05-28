@@ -1,0 +1,92 @@
+- authors: Vignesh Prasad, Karmesh Yadav, Saurabh Singh, Swapnil Daga, Nahas Pareekutty,
+    K. Madhava Krishna, Balaraman Ravindran, and Brojeshwar Bhowmick
+  link:
+    display: Project page
+    url: https://robotics.iiit.ac.in/people/vignesh.prasad/SLAMSafePlanner.html
+  title: Learning to Prevent Monocular SLAM Failure using Reinforcement Learning
+  venue: ICVGIP 2018
+- authors: Ganesh Iyer, R. Karnik Ram, J. Krishna Murthy, and K. Madhava Krishna
+  link:
+    display: Project page
+    url: https://robotics.iiit.ac.in/uploads/Main/Publications/Ganesh_et_al_iros18.html
+  title: 'CalibNet: Geometrically Supervised Extrinsic Calibration using 3D Spatial
+    Transformer Networks'
+  venue: IROS 2018
+- authors: Abhijeet Kumar, Gunshi Gupta, Avinash Sharma and  K. Madhava Krishna
+  link:
+    display: Project page
+    url: https://robotics.iiit.ac.in/uploads/Main/Publications/Gunshi_et_al_iros18.html
+  title: Towards View-Invariant Intersection Recognition from Videos using Deep Network
+    Ensembles
+  venue: IROS 2018
+- authors: Junaid Ahmed Ansari, Sarthak Sharma, Anshuman Majumdar, J. Krishna Murthy
+    and  K. Madhava Krishna
+  link:
+    display: Project page
+    url: https://robotics.iiit.ac.in/uploads/Main/Publications/Junaid_et_al_iros18.html
+  title: 'The Earth ain''t Flat: Monocular Reconstruction of Vehicles on Steep and
+    Graded Roads from a Moving Camera'
+  venue: IROS 2018
+- authors: Mithun P, Harit Pandya, Ayush Gaud, Suril V. Shah and K. Madhava Krishna
+  link:
+    display: Project page
+    url: http://robotics.iiit.ac.in/people/harit.pandya/ibvs_tumbling/
+  title: Image Based Visual Servoing for Tumbling Objects
+  venue: IROS 2018
+- authors: Krishnam Gupta, Syed Ashar Javed, Vineet Gandhi and K. Madhava Krishna
+  link:
+    display: Project page
+    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Krishnam_et_al_icra18.html
+  title: 'MergeNet: A Deep Net Architecture for Small Obstacle Discovery'
+  venue: ICRA 2018
+- authors: Sarthak Sharma*, Junaid Ahmed Ansari*, J. Krishna Murthy, and K. Madhava
+    Krishna
+  link:
+    display: Project page
+    url: https://junaidcs032.github.io/Geometry_ObjectShape_MOT/
+  title: 'Beyond Pixels: Leveraging Geometry and Shape Cues for Online Multi-Object
+    Tracking'
+  venue: ICRA 2018
+- authors: Parv Parkhiya, Rishabh Khawad, J. Krishna Murthy, Brojeshwar Bhowmick,
+    and K. Madhava Krishna
+  link:
+    display: Project page
+    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Parv_et_al_icra18.html
+  title: Constructing Category-Specific Models for Monocular Object-SLAM
+  venue: ICRA 2018
+- authors: Meha Kaushik, Vignesh Prasad, K Madhava Krishna and Balaraman Ravindran
+  link:
+    display: Project page
+    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Meha_et_al_iv18.html
+  title: Overtaking Maneuvers in Simulated Highway Driving using Deep Reinforcement
+    Learning
+  venue: IV 2018
+- authors: Mahtab Sandhu, Nazrul Haque, Avinash Sharma, K Madhava Krishna and Shanti
+    Medasani
+  link:
+    display: Project page
+    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Mahtab_et_al_iv18.html
+  title: Fast Multi Model Motion Segmentation on Road Scenes
+  venue: IV 2018
+- authors: A. V. S. Sai Bhargav Kumar, Adarsh Modh, Mithun Babu, Bharath Gopalakrishnan
+    and K. Madhava Krishna
+  link:
+    display: Project page
+    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Bhargav_et_al_iv18.html
+  title: A Novel Lane Merging Framework with Probabilistic Risk based Lane Selection
+    using Time Scaled Collision Cone
+  venue: IV 2018
+- authors: Mithun Babu, Yash Oza, Arun Kumar Singh and K. Madhava Krishna
+  link:
+    display: Project page
+    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Mithun_et_al_ecc18.html
+  title: Model Predictive Control for Autonomous Driving Based on Time Scaled Collision
+    Cone
+  venue: ECC 2018
+- authors: Phaniteja S*, Parijat Dewangan*, Abhishek Sarkar and K. Madhava Krishna
+  link:
+    display: Project page
+    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Phaniteja_et_al_isr18.html
+  title: Learning Multi-Goal Inverse Kinematics in Humanoid Robot
+  venue: ISR 2018
+

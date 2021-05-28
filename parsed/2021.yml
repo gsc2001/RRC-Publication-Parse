@@ -1,0 +1,37 @@
+- authors: Rahul Sajnani, AadilMehdi Sanchawala, Krishna Murthy Jatavallabhula, Srinath
+    Sridhar, K. Madhava Krishna
+  link:
+    display: Project page
+    url: https://aadilmehdis.github.io/DRACO-Project-Page/
+  title: 'DRACO: Weakly Supervised Dense Reconstruction And Canonicalization of Objects'
+  venue: ICRA 2021
+- authors: B.B. Kocer, M.A. Hady, K. Harikumar, M. Pratama and M. Kovac
+  link:
+    display: Download pdf
+    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Kocer_etal_ICRA_2021.pdf
+  title: Deep Neuromorphic Controller with Dynamic Topology for Aerial Robots
+  venue: ICRA 2021
+- authors: Rama Vadapalli, Saharsh Agarwal, Vishnu Kumar, Nagamanikandan Govindan,
+    K Madhava Krishna
+  title: Modular Pipe Climber-III with a Multi-Output Differential Mechanism
+  venue: AIM 2021
+- authors: P. Mali, K. Harikumar, A. K. Singh, K. Madhava Krishna, P.B. Sujit
+  link:
+    display: Download pdf
+    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Mali_etal_ECC_2021.pdf
+  title: Incorporating Prediction in Control Barrier Function Based Distributive Multi-Robot
+    Collision Avoidance
+  venue: ECC 2021
+- authors: Ayyappa Swamy Thatavarthy, Tanu Sharma, K. Madhava Krishna
+  title: A new geometric approach for three view line reconstruction and motion estimation
+    in Manhattan Scenes
+  venue: CRV 2021
+- authors: Madan Mohan Rayguru, Rajesh Elara Mohan, Rizuwana Parween, Lim Yi, Anh
+    Vu Le, Spandan Roy
+  link:
+    display: Project page
+    url: https://ieeexplore.ieee.org/abstract/document/9369849
+  title: An Output Feedback Based Robust Saturated Controller Design for Pavement
+    Sweeping Self-Reconfigurable Robot
+  venue: TMECH 2021
+

@@ -1,0 +1,98 @@
+- authors: Phaniteja S*, Parijat Dewangan*, Pooja Guhan, Abhishek Sarkar and K. Madhava
+    Krishna
+  link:
+    display: Project page
+    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Phaniteja_et_al_robio17.html
+  title: A Deep Reinforcement Learning Approach for Dynamically Stable Inverse Kinematics
+    of Humanoid Robots
+  venue: ROBIO 2017
+- authors: Akash Singh*, Enna Sachdeva*, Abhishek Sarkar and K. Madhava Krishna
+  link:
+    display: Project page
+    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Akash_et_al_robio17.html
+  title: Design and optimal springs stiffness estimation of a Modular OmniCrawler
+    in-pipe climbing Robot
+  venue: ROBIO 2017
+- authors: J. Krishna Murthy, Sarthak Sharma and K. Madhava Krishna
+  link:
+    display: Project page
+    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Murthy_et_al_iros17.html
+  title: Shape Priors for Real-Time Monocular Object Localization in Dynamic Environments
+  venue: IROS 2017
+- authors: Bharath Gopalakrishnan, Arun Kumar Singh, Meha Kaushik, K. Madhava Krishna
+    and Dinesh Manocha
+  link:
+    display: Project page
+    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Bharath_et_al_iros17.html
+  title: 'PRVO: Probabilistic Reciprocal Velocity Obstacle for Multi Robot Navigation
+    under Uncertainty'
+  venue: IROS 2017
+- authors: Sayantan Datta, Avinash Sharma and K. Madhava Krishna
+  link:
+    display: Project page
+    url: http://robotics.iiit.ac.in/people/sayantan.datta/IROS2017
+  title: Multi-trajectory Pose Correspondences using Scale-dependent Topological Analysis
+    of Pose-Graphs
+  venue: IROS 2017
+- authors: Akash Singh, Enna Sachdeva,  Abhishek Sarkar and K. Madhava Krishna
+  link:
+    display: Project page
+    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Akash_et_al_iros17.html
+  title: 'COCrIP: Compliant OmniCrawler In-pipeline Robot'
+  venue: IROS 2017
+- authors: Dhaivat Bhatt*, Danish Sodhi*,  Arghya Pal,  Vineeth Balasubramanian and  K.
+    Madhava Krishna
+  link:
+    display: Project page
+    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Dhaivat_et_al_iros17.html
+  title: 'Have I Reached the Intersection: A Deep Learning-Based Approach for Intersection
+    Detection from Monocular Cameras'
+  venue: IROS 2017
+- authors: Gourav Kumar*, Harit Pandya*,  Ayush Gaud and K. Madhava Krishna
+  link:
+    display: Project page
+    url: http://robotics.iiit.ac.in/people/gourav.kumar/pose_induction_web/IROS_2017.html
+  title: Pose Induction for Visual Servoing to a Novel Object Instance
+  venue: IROS 2017
+- authors: Vignesh Prasad, Rishab Jangir, Balaraman Ravindran and K.Madhava Krishna
+  link:
+    display: Project page
+    url: http://robotics.iiit.ac.in/people/vignesh.prasad/IRLActiveSLAM.html
+  title: Data driven strategies for Active Monocular SLAM using Inverse Reinforcement
+    Learning
+  venue: AAMAS 2017
+- authors: Sri Harsha Turlapati, Ankur Srivastava, K. Madhava Krishna and Suril V.
+    Shah
+  link:
+    display: Project page
+    url: http://robotics.iiit.ac.in/people/harsha.turlapati/DCMR/icra17.html
+  title: Detachable Modular Robot capable of Cooperative Climbing and Multi Agent
+    Exploration
+  venue: ICRA 2017
+- authors: Aseem Saxena*, Harit Pandya*, Gourav Kumar and K. Madhava Krishna
+  link:
+    display: Project page
+    url: http://robotics.iiit.ac.in/people/harit.pandya/servonets
+  title: Exploring Convolutional Networks for End-to-End Visual Servoing
+  venue: ICRA 2017
+- authors: J. Krishna Murthy, G.V. Sai Krishna, Falak Chhaya and K. Madhava Krishna
+  link:
+    display: Download pdf
+    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Krishna_etal_ICRA17.pdf
+  title: 'Reconstructing Vechicles from a Single Image: Shape Priors for Road Scene
+    Understanding'
+  venue: ICRA 2017
+- authors: Sheetal Reddy, Vineet Gandhi, K. Madhava Krishna and Suril V. Shah
+  link:
+    display: Project page
+    url: http://robotics.iiit.ac.in/people/sheetal.reddy/RPSelectiveObjectSearch/
+  title: 3D Region Proposals For Selective Object Search
+  venue: VISAPP 2017
+- authors: Nazrul Haque, Dinesh Reddy and K. Madhava Krishna
+  link:
+    display: Project page
+    url: http://robotics.iiit.ac.in/people/nazrul.athar/SMS/
+  title: Joint Semantic and Motion Segmentation for dynamic scenes using Deep Convolutional
+    Networks
+  venue: VISAPP 2017(Oral)
+

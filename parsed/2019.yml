@@ -1,0 +1,80 @@
+- authors: Shashank Srinkanth*, Junaid Ahmed Ansari*, R. Karnik Ram, Sarthak Sharma,
+    J. Krishna Murthy and K. Madhava Krishna
+  link:
+    display: Project page
+    url: https://robotics.iiit.ac.in/uploads/Main/Publications/shashank_et_al_iros19/
+  title: 'INFER: INtermediate representations for FuturE pRediciton'
+  venue: IROS 2019
+- authors: Sriram N. N., Tirth Maniar, Jayaganesh Kalyanasundaram, Vineet Gandhi,
+    Brojeshwar Bhowmick and K. Madhava Krishna
+  link:
+    display: Project page
+    url: https://robotics.iiit.ac.in/uploads/Main/Publications/sriram_et_al_iros19/
+  title: 'Talk to the Vehicle: Language Conditioned Autonomous Navigation of Self
+    Driving Cars'
+  venue: IROS 2019
+- authors: Harit Pandya, Ayush Gaud, Gourav Kumar, and K. Madhava Krishna
+  link:
+    display: Project page
+    url: https://robotics.iiit.ac.in/uploads/Main/Publications/Harit_etal_jfr2019.html
+  title: Instance Invariant Visual Servoing Framework for Part-Aware Autonomous Vehicle
+    Inspection using MAVs
+  venue: JFR 2019
+- authors: Raghu Ram Theerthala, A. V. S. Sai Bhargav Kumar, Mithun Babu, Phaniteja
+    S. and K Madhava Krishna
+  link:
+    display: Project page
+    url: https://robotics.iiit.ac.in/publications/2019/motion-planning-framework-for-autonomous-vehicles-a-tscc-interleaved-mpc-approach.html
+  title: 'Motion Planning Framework for Autonomous Vehicles: A Time Scaled Collision
+    Cone Interleaved Model Predictive Control Approach'
+  venue: IV 2019
+- authors: Sriram N. N., Gourav Kumar, Abhay Singh, M. Siva Karthik, Saket Saurav,
+    Brojeshwar Bhowmick and K. Madhava Krishna
+  link:
+    display: Project page
+    url: https://robotics.iiit.ac.in/publications/2019/a-hierarchical-network-for-diverse-trajectory-proposals.html
+  title: A Hierarchical Network for Diverse Trajectory Proposals
+  venue: IV 2019
+- authors: Mithun Babu, Raghu Ram Theerthala, Arun Kumar Singh, Baladhurgesh B.P.,
+    Bharath Gopalakrishnan, K. Madhava Krishna, Shanti Medasani
+  link:
+    display: Project page
+    url: https://robotics.iiit.ac.in/publications/2019/model-predictive-control-for-autonomous-driving-considering-actuator-dynamics.html
+  title: Model Predictive Control for Autonomous Driving considering Actuator Dynamics
+  venue: ACC 2019
+- authors: P. S. Naga Jyotish*, Yash Goel*, A. V. S. Sai Bhargav Kumar, K. Madhava
+    Krishna
+  link:
+    display: Project page
+    url: https://robotics.iiit.ac.in/publications/2019/pivo-probabilistic-inverse-velocity-obstalce-for-navigation-under-uncertainty.html
+  title: 'PIVO: Probabilistic Inverse Velocity Obstacle for Navigation under Uncertainty'
+  venue: RoMAN 2019
+- authors: Dhaivat Bhatt*, Akash Garg*, Bharath Gopalakrishnan, K. Madhava Krishna
+  link:
+    display: Project page
+    url: https://robotics.iiit.ac.in/publications/2019/probabilistic-obstacle-avoidance-and-object-follwong-an-overlap-of-gaussians-approach.html
+  title: 'Probabilistic obstacle avoidance and object following: An overlap of Gaussians
+    approach'
+  venue: RoMAN 2019
+- authors: P. S. Naga Jyotish*, Yash Goel*, A. V. S. Sai Bhargav Kumar, K. Madhava
+    Krishna
+  link:
+    display: Project page
+    url: https://robotics.iiit.ac.in/publications/2019/ivo-inverse-velocity-obstacles-for-real-time-navigation.html
+  title: 'IVO: Inverse Velocity Obstacles for Real Time Navigation'
+  venue: AIR 2019
+- authors: Meha Kaushik*, Nirvan Singhania*, Phaniteja S., K. Madhava Krishna
+  link:
+    display: Project page
+    url: https://robotics.iiit.ac.in/publications/2019/parameter-sharing-reinforcement-learning-architecture-for-multi-agent-driving.html
+  title: Parameter Sharing Reinforcement Learning Architecture for Multi Agent Driving
+  venue: AIR 2019
+- authors: Adarsh, Siddharth Singh, A. V. S. Sai Bhargav Kumar, Sriram N. N., K. Madhava
+    Krishna,
+  link:
+    display: Project page
+    url: https://robotics.iiit.ac.in/publications/2019/gradient-aware-shrinking-domain-based-control-design-for-reactive-planning-frameworks.html
+  title: Gradient Aware - Shrinking Domain based Control Design for Reactive Planning
+    Frameworks
+  venue: AIR 2019
+
